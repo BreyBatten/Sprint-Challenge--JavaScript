@@ -98,8 +98,8 @@ for (let i = 0; i < graduates.length; i++){
     uni.push(graduates[i]);
   }
 }
-const myJSON = JSON.stringify(uni);
-console.log(myJSON);
+
+console.log(uni);
 
 
 // ==== ADVANCED Array Methods ====
